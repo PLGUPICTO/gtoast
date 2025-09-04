@@ -1,5 +1,5 @@
 {
-    "name": "georg/gtoaster",
+    "name": "gduran/gtoaster",
     "description": "Real-time Filament toast notifications with Laravel broadcasting.",
     "keywords": ["laravel", "filament", "toast", "notifications", "broadcasting"],
     "type": "library",
