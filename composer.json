@@ -1,8 +1,15 @@
 {
     "name": "georg/referral-toaster",
     "description": "Real-time Filament toast notifications with Laravel broadcasting.",
+    "keywords": ["laravel", "filament", "toast", "notifications", "broadcasting"],
     "type": "library",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Georg Dan Gil M. Duran",
+            "email": "your@email.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Georg\\ReferralToaster\\": "src/"
@@ -18,7 +25,7 @@
     "require": {
         "php": "^8.1",
         "laravel/framework": "^12.0",
-        "pusher/pusher-php-server": "^7.2",     
-        "laravel/reverb": "^1.0"               
+        "pusher/pusher-php-server": "^7.2",
+        "laravel/reverb": "^1.0"
     }
 }
