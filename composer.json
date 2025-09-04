@@ -1,5 +1,5 @@
 {
-    "name": "georg/referral-toaster",
+    "name": "georg/gtoaster",
     "description": "Real-time Filament toast notifications with Laravel broadcasting.",
     "keywords": ["laravel", "filament", "toast", "notifications", "broadcasting"],
     "type": "library",
